@@ -1,4 +1,4 @@
-=Outlook,Temperature,Humidity,Wind,Answer
+Outlook,Temperature,Humidity,Wind,Answer
 sunny,hot,high,weak,no
 sunny,hot,high,strong,no
 overcast,hot,high,weak,yes
