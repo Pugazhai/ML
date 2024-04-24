@@ -1,0 +1,7 @@
+Fever,Cough,Difficulty_Breathing,Sore_Throat,Fatigue,Headache,Age,Sex,Travel_History,COVID
+High,Yes,Yes,No,Yes,No,Adult,Male,Yes,Positive
+Low,Yes,No,No,No,No,Adult,Female,No,Negative
+High,Yes,Yes,Yes,Yes,Yes,Child,Male,No,Positive
+Low,No,No,No,No,No,Adult,Female,No,Negative
+High,Yes,No,Yes,Yes,Yes,Adult,Male,Yes,Positive
+Low,Yes,No,No,Yes,No,Child,Female,Yes,Negative
