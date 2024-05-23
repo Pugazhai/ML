@@ -10,8 +10,8 @@ data = pd.read_csv('Datasets\enjoysport.csv')
 data = pd.get_dummies(data)
 
 # Separate features and target variable
-X = data.drop('PlayTennis', axis=1)
-y = data['PlayTennis']
+X = data.drop('Answer',axis=1)
+y = data['Answer']
 
 # Split dataset into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
